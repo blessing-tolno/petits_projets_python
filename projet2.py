@@ -1,4 +1,4 @@
-# La mini calculatrice
+# La mini calculatrice Pour effectuer des opérations simple
 
 print("Choisir entre ces opérateurs et écrire comme tel :\
      soustraction--addition--multiplication--division--reste ")
